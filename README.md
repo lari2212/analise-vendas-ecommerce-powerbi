@@ -23,3 +23,7 @@ Projeto de análise de dados de vendas de e-commerce utilizando Power BI.
 - Visitantes
 - Taxa de conversão
 - Vendas por horário
+
+## Objetivo do projeto
+
+Analisar dados de vendas de um e-commerce para identificar padrões de comportamento dos clientes, horários de maior conversão e relação entre visitantes e pedidos.
